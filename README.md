@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://giphy.com/stories/spooky-season-4b415c56-41fe"/>
+  <img src="https://giphy.com/gifs/happy-valentines-i-heart-you-happyvalentines-o4tvFJ2LqMkv2jxRRf"/>
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
